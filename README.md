@@ -12,8 +12,8 @@ _Para comenzar con este cursos vas a necesitar unas herramientas ver la seccion 
 _Las herramientas que necesitas son las siguientes:
 
 * [Git](https://git-scm.com/) si usas linux la pagina te proporciona un instalador.
-* [sublimet text] (https://www.sublimetext.com/) este sera nuestro editor de codigo.
-* [mozilla developer edition] (https://www.mozilla.org/es-ES/firefox/developer/) navegador que nos ayudara para inspeccionar los trabajos realizados.
+* [Sublimet text](https://www.sublimetext.com/) este sera nuestro editor de codigo.
+* [Mozilla developer edition](https://www.mozilla.org/es-ES/firefox/developer/) navegador que nos ayudara para inspeccionar los trabajos realizados.
 
 ## Wiki 📖
 
