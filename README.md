@@ -21,7 +21,7 @@ _Puedes encontrar mucho más de cómo utilizar el lenguaje javascript te voy a d
 
 ## Autores ✒️
 
-* **Alexander torres** - *Tutor* - [websterAj](https://github.com/villanuevand)
+* **Alexander torres** - *Tutor* - [websterAj](https://github.com/websterAj)
 
 ## Expresiones de Gratitud 🎁
 
